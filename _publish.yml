@@ -1,0 +1,3 @@
+- source: project
+  gh-pages:
+    url: https://mzainmd.github.io/Rural_Health_Analytics_Blog/
